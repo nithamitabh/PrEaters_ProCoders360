@@ -27,10 +27,10 @@ Step 4: Click on make your booking and place your order.<br>
 ![Screenshot (144)](https://user-images.githubusercontent.com/96220322/154847383-c98aa455-118d-4904-86a5-eebec6aef1d8.png)<br>
 Step 5: Click on order button to check your order.<br>
 ![Screenshot (145)](https://user-images.githubusercontent.com/96220322/154847407-6015ed30-2032-43a9-8214-c729e1221acc.png)<br>
-![1_b](https://user-images.githubusercontent.com/96220322/154846625-0612fb76-7f7f-43b1-938e-b4120e95d386.jpg)
 ## Other Features of website:
 ![Screenshot (142)](https://user-images.githubusercontent.com/96220322/154847471-3c9a2849-8146-44a1-b362-90d889abcc5e.png)
-![image](https://user-images.githubusercontent.com/96220322/154847510-66c8ed0b-c0c2-4f71-bbde-7f4f67a404ee.png)
+![image](https://user-images.githubusercontent.com/96220322/154847510-66c8ed0b-c0c2-4f71-bbde-7f4f67a404ee.png)<br>
+![1_b](https://user-images.githubusercontent.com/96220322/154846625-0612fb76-7f7f-43b1-938e-b4120e95d386.jpg)
 ## Future improvement:
 We will add a map which will display all the restaurants near you.<br>
 We will make options for the meal that needs to be served first and then second and so on. Also, this will be applicable on drive-thru/pick and drive.
